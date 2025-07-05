@@ -27,8 +27,7 @@
 
 ---
 
-## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/5c92aaf5-6fcf-4d61-bd7a-7e73819d6f20)
 
-_Add a screenshot of your application here to showcase the UI._
 
 
